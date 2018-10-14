@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toolbar;
-
+//this is mainActivity
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private Button[][] buttons = new Button[3][3];
